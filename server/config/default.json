@@ -1,0 +1,18 @@
+{
+    "Etsy": {
+        "BaseUrl": "https://openapi.etsy.com/v2",
+        "App": {
+            "id": 373664243169,
+            "key": "lbdmkot06y5e19z10i18uqwn",
+            "secret": "wr65p3ywbd"
+        },
+        "Shop": {
+            "id": 18164793,
+            "name": "theknottymoms"
+        },
+        "Profile": {
+            "user_id": 167591147,
+            "login_name": "sram1ljh"
+        }
+    }
+}

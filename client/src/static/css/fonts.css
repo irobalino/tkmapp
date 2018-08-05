@@ -1,0 +1,192 @@
+/* Fonts */
+
+@font-face {
+    font-family: BallroomWaltz;
+    src: url('../fonts/BallroomWaltz.ttf') format('truetype');
+}
+
+.font--BallroomWaltz {
+    font-family: BallroomWaltz;
+    font-size: 70px;
+}
+
+@font-face {
+    font-family: Bambi;
+    src: url('../fonts/Bambi Regular.ttf') format('truetype');
+}
+
+.font--Bambi {
+    font-family: Bambi;
+    font-size: 70px;
+}
+
+@font-face {
+    font-family: Blackoak;
+    src: url('../fonts/BlackoakRegular.ttf') format('truetype');
+}
+
+.font--Blackoak {
+    font-family: Blackoak;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: Brock;
+    src: url('../fonts/BrockScript.ttf') format('truetype');
+}
+
+.font--Brock {
+    font-family: Brock;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: CaviarDreams;
+    src: url('../fonts/CaviarDreams.ttf') format('truetype');
+}
+
+.font--CaviarDreams {
+    font-family: CaviarDreams;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: Darleston;
+    src: url('../fonts/Darleston.otf') format('opentype');
+}
+
+.font--Darleston {
+    font-family: Darleston;
+    font-size: 75px !important;
+}
+
+@font-face {
+    font-family: DeliciousAdventures;
+    src: url('../fonts/Delicious Adventures.ttf') format('truetype');
+}
+
+.font--DeliciousAdventures {
+    font-family: DeliciousAdventures;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: Everlast;
+    src: url('../fonts/Everlast.ttf') format('truetype');
+}
+
+.font--Everlast {
+    font-family: Everlast;
+    font-size: 65px;
+}
+
+@font-face {
+    font-family: Fabulous;
+    src: url('../fonts/Fabulous.ttf') format('truetype');
+}
+
+.font--Fabulous {
+    font-family: Fabulous;
+    font-size: 70px;
+}
+
+@font-face {
+    font-family: Humble;
+    src: url('../fonts/Humble.ttf') format('truetype');
+}
+
+.font--Humble {
+    font-family: Humble;
+    font-size: 70px;
+}
+
+@font-face {
+    font-family: Kamelia;
+    src: url('../fonts/Kamelia Script.ttf') format('truetype');
+}
+
+.font--Kamelia {
+    font-family: Kamelia;
+    font-size: 70px;
+}
+
+@font-face {
+    font-family: Kimberly;
+    src: url('../fonts/Kimberly DEMO.ttf') format('truetype');
+}
+
+.font--Kimberly {
+    font-family: Kimberly;
+    font-size: 70px;
+}
+
+@font-face {
+    font-family: LillyBelle;
+    src: url('../fonts/LillyBelle.ttf') format('truetype');
+}
+
+.font--LillyBelle {
+    font-family: LillyBelle;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: Magnolia;
+    src: url('../fonts/magnolia_sky.ttf') format('truetype');
+}
+
+.font--Magnolia {
+    font-family: Magnolia;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+@font-face {
+    font-family: Montana;
+    src: url('../fonts/Montana.ttf') format('truetype');
+}
+
+.font--Montana {
+    font-family: Montana;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: Priscilla;
+    src: url('../fonts/Priscilla Script.ttf') format('truetype');
+}
+
+.font--Priscilla {
+    font-family: Priscilla;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: Sophia;
+    src: url('../fonts/SophiaRegular.ttf') format('truetype');
+}
+
+.font--Sophia {
+    font-family: Sophia;
+    font-size: 70px;
+}
+
+@font-face {
+    font-family: SpiffyMcGee;
+    src: url('../fonts/Spiffy-McGee-Lite.otf') format('opentype');
+}
+
+.font--SpiffyMcGee {
+    font-family: SpiffyMcGee;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: Watermelon;
+    src: url('../fonts/Watermelon Script Demo.ttf') format('truetype');
+}
+
+.font--Watermelon {
+    font-family: Watermelon;
+    font-size: 40px;
+}
